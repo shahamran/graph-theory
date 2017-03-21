@@ -191,13 +191,12 @@
 
 \end_inset
 
-נחלק למקרים.
- 
+נחלק למקרים: 
 \end_layout
 
 \begin_layout Itemize
 אם 
-\begin_inset Formula $x,y=0$
+\begin_inset Formula $x=y=0$
 \end_inset
 
  אז 
@@ -237,20 +236,85 @@
 \begin_inset Formula $x=0,\,y\neq0$
 \end_inset
 
- אז נבדוק מתי הסכום 
-\begin_inset Formula $xx'+yy'$
-\end_inset
-
- מתאפס: 
+ אז: 
 \begin_inset Formula 
 \begin{align*}
- & xx'+yy'=0\\
-\iff & y'=-\frac{xx'}{y}
+z'= & -\frac{xx'+yy'}{z}=-\frac{yy'}{z}
 \end{align*}
 
 \end_inset
 
+כלומר 
+\begin_inset Formula $z'$
+\end_inset
 
+ נקבע ביחידות על ידי 
+\begin_inset Formula $y'$
+\end_inset
+
+, ואין חשיבות לבחירת 
+\begin_inset Formula $x'$
+\end_inset
+
+.
+ לבחירת 
+\begin_inset Formula $x',y'$
+\end_inset
+
+ יש 
+\begin_inset Formula $q^{2}-1$
+\end_inset
+
+ אפשרויות )
+\begin_inset Formula $q$
+\end_inset
+
+ לבחירת כל אחד מ-
+\begin_inset Formula $x',y'$
+\end_inset
+
+, פחות הבחירה 
+\begin_inset Formula $x'=y'=0$
+\end_inset
+
+(.
+ נחלק ב-
+\begin_inset Formula $q-1$
+\end_inset
+
+ כפולות בסקלר 
+\begin_inset Formula $0\neq$
+\end_inset
+
+ ונקבל 
+\begin_inset Formula $q+1$
+\end_inset
+
+ שכנים
+\end_layout
+
+\begin_layout Itemize
+החישוב עבור 
+\begin_inset Formula $x\neq0,\,y=0$
+\end_inset
+
+ דומה לקודם, כלומר 
+\begin_inset Formula $q+1$
+\end_inset
+
+ שכנים
+\end_layout
+
+\begin_layout Itemize
+אם 
+\begin_inset Formula $x\neq0$
+\end_inset
+
+ וגם 
+\begin_inset Formula $y\neq0$
+\end_inset
+
+, אז
 \end_layout
 
 \begin_layout Standard

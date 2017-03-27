@@ -171,7 +171,15 @@
 \begin_inset Formula $G$
 \end_inset
 
- גרף קשיר ויהי 
+ גרף קשיר עם 
+\begin_inset Formula $n$
+\end_inset
+
+ קדקודים ו-
+\begin_inset Formula $m$
+\end_inset
+
+ צלעות ויהי 
 \begin_inset Formula $T$
 \end_inset
 
@@ -188,7 +196,11 @@
 \begin_inset Formula $C_{e}$
 \end_inset
 
- את המעגל הנוצר על ידי הוספת הצלע 
+ את המעגל )הפשוט( הנוצר ב-
+\begin_inset Formula $T$
+\end_inset
+
+ על ידי הוספת הצלע 
 \begin_inset Formula $e$
 \end_inset
 
@@ -197,6 +209,30 @@
 \end_inset
 
 .
+\end_layout
+
+\begin_layout Standard
+צ"ל שהאוסף 
+\begin_inset Formula $C_{e_{1}},\dots,C_{e_{m}}$
+\end_inset
+
+ הוא ב"ת כאשר 
+\begin_inset Formula $e_{1},\dots,e_{m-n+1}$
+\end_inset
+
+ הוא אוסף הצלעות ב-
+\begin_inset Formula $G\backslash T$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+נסמן ב-
+\begin_inset Formula $\mathbb{F}_{2}^{m}$
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
